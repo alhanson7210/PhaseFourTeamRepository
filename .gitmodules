@@ -1,0 +1,3 @@
+[submodule "projects/week2/bigquery-sample"]
+	path = projects/week2/bigquery-sample
+	url = https://github.com/alhanson7210/bigquery-sample.git
