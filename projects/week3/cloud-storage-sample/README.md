@@ -8,7 +8,7 @@
 - App Dev: Storing Image and Video Files in Cloud Storage - Python
 
 ## Brief Overview
-- This basic demonstration of we can upload images & videos and retrieve application data with Cloud Storage
+- This basic demonstration of we can upload images & videos and retrieve application data with Cloud Storage working from an existing git repository, then adding our own mix to it
 
 ## Scope of Work
 - Configuring an application to use Cloud Storage to store and retrieve application data.
